@@ -1,0 +1,21 @@
+body {
+  background-color: yellow;
+}
+
+h1,
+h2 {
+  color: red;
+  font-family: Arial, sans-serif;
+}
+
+.destaque {
+  background-color: blue;
+  margin: 20px;
+  padding: 12px;
+}
+/* 1- o mais diicil foi criar a classe .destaque foi difícil entender que tinha de escrever destaque no <p> do html,
+      porque pensei que tinha antes de escrever p no css, depois de olhar um pouco para o powerpoint do professor
+	  e de perguntar ao chat para me explicar porque estava errado entendi e também tive de ir pesquisar como dar uma margem personalizada porque não estava a entender
+   2- o meu erro mais comum foi não meter "" em href= e src=, e fechar as listas com </li> e </ul>
+   3- href estabelece a ligação entre o link onde se carrega e o enddereço que quer ser acessado ao carregar nesse link, que pode ser uma nova página ou site
+/*
